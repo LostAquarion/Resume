@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    margin:0px;
+}
+img{
+    padding: 1%;
+    border: auto;
+    width: 400px;
+  
+    border-radius: 50%;
+  }
+  body, h1, h2, h3, p, ul, li {
+    margin: 2;
+    padding: 0;}
+  .linkedin{
+    background-color: white;  
+  }
